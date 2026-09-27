@@ -1,0 +1,1 @@
+Hi, I’m T M Manoj, a B.Tech student specializing in Artificial Intelligence and Data Science at REVA University. I am interested in programming, web development, data science, and artificial intelligence, and I enjoy building projects to strengthen my technical and problem-solving skills.
