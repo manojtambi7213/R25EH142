@@ -1,0 +1,4 @@
+Projects:
+- 2D Graphics Editor using C
+- Thermal Sense - Thermal Simulation Model
+- automated smart motion car
